@@ -22,8 +22,11 @@ A philosophical reflection on the relationship between the **human** and the **u
         <td>Advance</td>
     </tr>
     <tr>
-    	<th>Belief</th>
+    	<th rowspan="2">Belief</th>
         <td>Advance</td>
+    </tr>
+    <tr>
+    	<td><a href="Belief\science.md">Science</a></td>
     </tr>
     <tr>
     	<th>Paradoxed</th>

@@ -20,11 +20,15 @@
         <td>篇章前言</td>
     </tr>
     <tr>
-    	<th>信仰</th>
+    	<th rowspan="2">信仰</th>
         <td>篇章前言</td>
+    </tr>
+    <tr>
+    	<td><a href="Belief\science-zh_cn.md">科学</a></td>
     </tr>
     <tr>
     	<th>被悖论</th>
         <td>篇章前言</td>
     </tr>
 </table>
+
