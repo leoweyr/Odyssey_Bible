@@ -21,5 +21,4 @@ General science meets Popper's criteria for science.
 [^disambiguational 1]:**Mathematics correctly belongs to the category of "formal science", but according to the common understanding of science, classifying it as "nature science" can better combine with the *Odyssey Bible* to discuss "special science".**
 [^disambiguational 2]:**Refers to human's explanation of nature and its complete and systematic theory that is considered to be truth, rather than the physical entity itself.**
 [^common]:**The basic backdrop sandbox used to limit all scientific research in Mass Consciousness. This "scientific research" is expressed in a methodological sense.**
-
 [^disambiguational 3]:**Noun, referring to various specific instances rather than the meaning in terms of methodology.**
