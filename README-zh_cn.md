@@ -21,7 +21,7 @@
     </tr>
     <tr>
     	<th rowspan="2">信仰</th>
-        <td>篇章前言</td>
+        <td><a href="Belief\belief_advance-zh_cn.md">篇章前言</a></td>
     </tr>
     <tr>
     	<td><a href="Belief\science-zh_cn.md">科学</a></td>

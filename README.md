@@ -23,7 +23,7 @@ A philosophical reflection on the relationship between the **human** and the **u
     </tr>
     <tr>
     	<th rowspan="2">Belief</th>
-        <td>Advance</td>
+        <td><a href="Belief\belief_advance.md">Advance</a></td>
     </tr>
     <tr>
     	<td><a href="Belief\science.md">Science</a></td>
@@ -33,3 +33,4 @@ A philosophical reflection on the relationship between the **human** and the **u
         <td>Advance</td>
     </tr>
 </table>
+
